@@ -2,33 +2,18 @@
 
 <h1 align="center">Drev's Resolution Manager (DRM)</h1>
 
-<p align="center">The best and updated Windows activation tool/script for Windows 10 and 11 by DrevilYT.</p>
+<p align="center">The best and updated Windows resolution tool/script for Windows 10 and 11 by DrevilYT.</p>
 <hr>
 
 ## Download / How to use it?
 
-### Method 1 - Windows Run Installer (Recommended)
+### Method 1 - Traditional
 
--   Right-click on the Windows start menu and select Run (or press Win key + R).
--   Copy-paste the below code and press enter.
-    ```
-    cmd.exe /c cd %userprofile%\desktop & curl -o DWAT.exe "https://drev.evils.in/ActivationScript/v4.8/DWAT.exe" & echo. & echo. & echo Drev's Activation Script should be on your desktop now. & title v4.8 & pause
-    ```
--   The script should be on your desktop now. Run it and select your options.
--   That's all.
-
-### Method 2 - Traditional
-
--   Download the file from the [Latest Release](https://github.com/DrevilYT/ActivationScript/releases/latest)
--   Run the file named DWAT.exe.
+-   Download the file from the [Latest Release](https://github.com/DrevilYT/ResolutionManager/releases/latest)
+-   Run the file named DRM.exe.
 -   Select Yes or Allow if Windows tries to prevent you from running it.
--   You will see the activation options. Select your option.
+-   You will see the resolutions. Select your option.
 -   That's all.
-
-### Download Other/Older Versions
-
--   [Click here for more info](https://github.com/DrevilYT/ActivationScript/tree/main/installer/readme.md)
-</br>
 
 ```
 Latest Version: 1.0
