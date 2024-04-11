@@ -16,7 +16,7 @@
 -   That's all.
 
 ```
-Latest Version: 1.0
+Latest Version: 2.0
 Release date: 11-April-2024
 ```
 
