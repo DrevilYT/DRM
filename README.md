@@ -2,7 +2,7 @@
 
 <h1 align="center">Drev's Resolution Manager (DRM)</h1>
 
-<p align="center">The best and updated Windows resolution tool/script for Windows 10 and 11 by DrevilYT.</p>
+<p align="center">The best and updated Windows resolution tool/script for Windows by Drev.</p>
 <hr>
 
 ## Download / How to use it?
