@@ -19,17 +19,3 @@
 Latest Version: 2.0
 Release date: 11-April-2024
 ```
-
-### Homepage - [https://drev.uk.to/](https://drev.uk.to/)
-</br>
-
-<a href="https://drev.uk.to/discord/redirect.html">
-  <img src="https://massgrave.dev/images/logo_discord.png" alt="Chat with us" />
-</a>
-<a href="https://twitter.com/DrevilYoutube">
-  <img src="https://massgrave.dev/images/logo_x.png" alt="Follow on 𝕏/Twitter" />
-</a>
-
----
-
-<p align="center">Made by Drevil</p>
