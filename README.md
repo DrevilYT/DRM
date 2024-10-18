@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drev.uk.to/assets/images/image01.jpg" alt="Drev's Logo"></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DRM+-+v3;The+best+custom+resolution+script;Now+with+complete+redesign)](https://drev.uk.to/error)
 
 <h1 align="center">Drev's Resolution Manager (DRM)</h1>
 
